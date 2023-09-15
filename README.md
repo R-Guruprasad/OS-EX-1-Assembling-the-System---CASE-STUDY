@@ -1,6 +1,5 @@
 # OS-EX-1-Assembling-the-System---CASE-STUDY
-
-Assembling the system
+# Assembling the system
 # AIM:
 To assemble the system
 # MATERIALS REQUIRED:
